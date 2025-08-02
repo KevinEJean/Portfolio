@@ -1,6 +1,4 @@
-# Mon Curriculum Vitae
-
----
+# Mon Curriculum Vitae | [présentation de tout mes projets](./README.md)
 
 ## 📝 Mes Informations  
 - **Courriel** : kevinjean438@gmail.com  
@@ -12,8 +10,7 @@
 
 ## 🎓 Cheminement Scolaire  
 ### **Technique en Informatique** | *2023 - 2027*  
-[**Collège Marie-Victorin, Montréal**](https://cegepmv.ca/programmes/techniques-de-informatique)
-[présentation de tout mes projets](./README.md)
+**Collège Marie-Victorin, Montréal**
 
 ### **Diplôme d’Études Secondaires** | *2022*  
 **Collège Reine-Marie, Montréal**  
