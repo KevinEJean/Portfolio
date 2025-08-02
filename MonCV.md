@@ -13,6 +13,7 @@
 ## 🎓 Cheminement Scolaire  
 ### **Technique en Informatique** | *2023 - 2027*  
 [**Collège Marie-Victorin, Montréal**](https://cegepmv.ca/programmes/techniques-de-informatique)
+[présentation de tout mes projets](./README.md)
 
 ### **Diplôme d’Études Secondaires** | *2022*  
 **Collège Reine-Marie, Montréal**  
