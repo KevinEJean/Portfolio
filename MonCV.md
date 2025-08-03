@@ -57,3 +57,19 @@
 - **Base de Données** : Gestion d’une Base de Données  
 
 ---
+
+## 🎖 Compétence
+
+### À travers mon cheminement, j’ai développé :
+- **Travail d’équipe** : collaborer avec différents profils pour atteindre un objectif commun.
+- **Gestion de stress** : performer sous pression n'a jamais été un problème.
+- **Responsabilité** : engagement constant envers l'équipe.
+- **Communication** : recevoir, comprendre ou transmettre des consignes claires.
+- **Discipline** : capacité à adapter à n’importe quelle horaire ou situation. 
+- **Leadership** : prendre l’initiative et réaliser des tâches sans être demandé.
+
+--- 
+
+## 👋 Social
+
+- [**Profil Linkdin**]()
