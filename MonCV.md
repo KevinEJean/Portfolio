@@ -72,4 +72,4 @@
 
 ## 👋 Social
 
-- [**Profil Linkdin**]()
+- [**Profil Linkdin**](https://www.linkedin.com/in/kevin-emmanuel-jean/)
