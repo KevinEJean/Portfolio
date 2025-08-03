@@ -4,7 +4,8 @@
 - **Courriel** : kevinjean438@gmail.com  
 - **Téléphone** : (514) 641-8553  
 - **Adresse** : Laval, QC, H7A 1N7  
-- **GitHub** : [Profil GitHub](https://github.com/KevinEJean)
+- [**Profil GitHub**](https://github.com/KevinEJean)
+- [**Profil Linkdin**](https://www.linkedin.com/in/kevin-emmanuel-jean/)
 
 ---
 
@@ -67,9 +68,3 @@
 - **Communication** : recevoir, comprendre ou transmettre des consignes claires.
 - **Discipline** : capacité à adapter à n’importe quelle horaire ou situation. 
 - **Leadership** : prendre l’initiative et réaliser des tâches sans être demandé.
-
---- 
-
-## 👋 Social
-
-- [**Profil Linkdin**](https://www.linkedin.com/in/kevin-emmanuel-jean/)
