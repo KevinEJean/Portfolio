@@ -11,8 +11,8 @@
 
 ## 🎓 Cheminement Scolaire 
 
-## [Cégep Marie-Victorin]() 
-### **Technique en Informatique** | *2023 - 2027*  
+### Cégep Marie-Victorin (DEC)
+- **Technique en Informatique** | *2023 - 2027*  
 
 ---
 
