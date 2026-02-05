@@ -32,7 +32,7 @@
 - **Bureautique** : Excel, Word, Teams, PDF  
 - **Programmation** : Python, Java, JavaScript, C#
 - **Web** : HTML & CSS, React Native 
-- **Base de Données** : MySQL, Administration
+- **Base de Données** : MySQL, Administration, Analyse de donnée
 - **Cybersécurité** : Déploiement et configuartion de service/réseau sur AWS, VPN, VMWare
 
 ---
