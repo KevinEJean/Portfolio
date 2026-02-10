@@ -1,4 +1,4 @@
-# Mon Curriculum Vitae | [clicker ici pour voir mes projets](./README.md)
+# Mon Curriculum Vitae
 
 ## 📝 Mes Informations  
 - **Courriel** : kevinjean438@gmail.com  
