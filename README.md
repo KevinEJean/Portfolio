@@ -16,6 +16,13 @@
 
 ---
 
+## ⚙️ Projet Informatique
+
+### Application de cybersécurité
+- **[Répertoire Github](https://github.com/KevinEJean/NanoBoost)** | *C# (ML.NET) - WinDivert - SharpPcap*
+
+---
+
 ## 📚 Implications Scolaires  
 - Note soutenue en science  
 - Membre de l’équipe de basketball  
@@ -26,14 +33,16 @@
 ## 🎓 Formations Particulières  
 
 ### Santé & Sécurité  
-- RCR  
+- RCR
+
+---
 
 ### Logiciels et Compétences Techniques  
-- **Bureautique** : Excel, Word, Teams, PDF  
-- **Programmation** : Python, Java, JavaScript, C#
-- **Web** : HTML & CSS, React Native 
+- **Bureautique** : Excel, Word, Teams, PDF, PowerPoint, OneDrive
+- **Programmation** : Python, Java, JavaScript, C#, Linux, Powershell 
+- **Web** : HTML & CSS, React Native
 - **Base de Données** : MySQL, Administration, Analyse de donnée
-- **Cybersécurité** : Déploiement et configuartion de service/réseau sur AWS, VPN, VMWare
+- **Cybersécurité** : Déploiement et configuartion de service/réseau sur AWS, VPN, VMWare, WireShark
 
 ---
 
