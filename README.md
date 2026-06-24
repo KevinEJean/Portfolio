@@ -18,8 +18,9 @@
 
 ## ⚙️ Projet Informatique
 
-### Application de cybersécurité
-- **[Répertoire Github](https://github.com/KevinEJean/NanoBoost)** | *C# (ML.NET) - WinDivert - SharpPcap*
+### Catalogue de film/serie **[Répertoire Github](https://github.com/KevinEJean/ProjetWebH25)**
+-  Language de programmation : **Java, Javascript, Node**
+-  Base de données : **MariaDB (MySQL)**
 
 ---
 
