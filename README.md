@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Projet Informatique
+## ⚙️ Projet
 
 ### Catalogue de film/serie | **[Répertoire Github](https://github.com/KevinEJean/ProjetWebH25)**
 -  Language/Service de programmation : **Java, Javascript, Node, SpringBoot**
@@ -33,7 +33,7 @@
 
 ---
 
-### Logiciels et Compétences Techniques  
+## 🎖 Logiciels et Compétences Techniques  
 - **Bureautique** : Excel, Word, Teams, PDF, PowerPoint, OneDrive
 - **Programmation** : Python, Java, JavaScript, C#, Linux, Powershell 
 - **Web** : HTML & CSS, React Native
@@ -42,7 +42,7 @@
 
 ---
 
-## 🎖 Compétence
+## 🎯 Compétence
 
 ### À travers mon cheminement, j’ai développé :
 - **Travail d’équipe** : collaborer avec différents profils pour atteindre un objectif commun.
