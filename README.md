@@ -33,13 +33,6 @@
 
 ---
 
-## 🎓 Formations Particulières  
-
-### Santé & Sécurité  
-- RCR
-
----
-
 ### Logiciels et Compétences Techniques  
 - **Bureautique** : Excel, Word, Teams, PDF, PowerPoint, OneDrive
 - **Programmation** : Python, Java, JavaScript, C#, Linux, Powershell 
