@@ -16,29 +16,29 @@
 
 ---
 
-## ⚙️ Projet
-
-### Catalogue de film/serie | **[Répertoire Github](https://github.com/KevinEJean/ProjetWebH25)**
--  Language/Service de programmation : **Java, Javascript, Node, SpringBoot**
--  Base de données : **MariaDB (MySQL)**
--  Page Web développée avec React (Vite), les données publiques (films, séries, acteurs, images, classements) sont récupérées via l'API publique, [OMDb API](https://www.omdbapi.com/), les données privées sont gérées et transmises par une API REST backend à travers des services et des contrôleurs, assurant la communication sécurisée entre l'application et la base de données.
--  Pour plus de détails techniques : **[Frontend](https://github.com/KevinEJean/ProjetWebH25/tree/devFrontend)** & **[Backend](https://github.com/KevinEJean/ProjetWebH25/tree/devBackend)**
-
----
-
-## 📚 Implications Scolaires  
+## 📚 Implications Scolaire
 - Note soutenue en science  
 - Membre de l’équipe de basketball  
 - Membre de l’équipe de flag-football    
 
 ---
 
+## ⚙️ Projet
+
+### Catalogue de film/serie | **[Répertoire Github](https://github.com/KevinEJean/ProjetWebH25)**
+-  Page Web développée avec React (Vite), les données publiques (films, séries, acteurs, images, classements) sont récupérées via l'API publique, [OMDb API](https://www.omdbapi.com/), les données privées sont gérées et transmises par une API REST backend à travers des services et des contrôleurs, assurant la communication sécurisée entre l'application et la base de données.
+-  Language/Service de programmation : **Java, Javascript, Node, SpringBoot**
+-  Base de données : **MariaDB (MySQL)**
+-  Pour plus de détails techniques : **[Frontend](https://github.com/KevinEJean/ProjetWebH25/tree/devFrontend)** & **[Backend](https://github.com/KevinEJean/ProjetWebH25/tree/devBackend)**
+
+---
+
 ## 🎖 Logiciels et Compétences Techniques  
 - **Bureautique** : Excel, Word, Teams, PDF, PowerPoint, OneDrive
-- **Programmation** : Python, Java, JavaScript, C#, Linux, Powershell 
+- **Programmation** : Python, Java, JavaScript, C#, Bash
 - **Web** : HTML & CSS, React Native
-- **Base de Données** : MySQL, Administration, Analyse de donnée
-- **Cybersécurité** : Déploiement et configuartion de service/réseau sur AWS, VPN, VMWare, WireShark
+- **Base de Données** : MySQL, Administration, Analyse de données
+- **Cybersécurité** : Déploiement et configuration de service/réseau sur AWS, VPN, VMWare, WireShark
 
 ---
 
