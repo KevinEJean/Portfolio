@@ -22,6 +22,7 @@
 -  Language de programmation : **Java, Javascript, Node**
 -  Base de données : **MariaDB (MySQL)**
 -  Page Web développée avec React (Vite), les données publiques (films, séries, acteurs, images, classements) sont récupérées via l'API publique, [OMDb API](https://www.omdbapi.com/), les données privées sont gérées et transmises par une API REST backend à travers des services et des contrôleurs, assurant la communication sécurisée entre l'application et la base de données.
+-  Pour plus de détails techniques : **[Frontend](https://github.com/KevinEJean/ProjetWebH25/tree/devFrontend)** & **[Backend](https://github.com/KevinEJean/ProjetWebH25/tree/devBackend)**
 
 ---
 
