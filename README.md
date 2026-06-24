@@ -18,7 +18,7 @@
 
 ## ⚙️ Projet Informatique
 
-### Catalogue de film/serie **[Répertoire Github](https://github.com/KevinEJean/ProjetWebH25)**
+### Catalogue de film/serie | **[Répertoire Github](https://github.com/KevinEJean/ProjetWebH25)**
 -  Language de programmation : **Java, Javascript, Node**
 -  Base de données : **MariaDB (MySQL)**
 
