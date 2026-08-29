@@ -1,0 +1,14 @@
+section.rootApp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+div.divTabs {
+    margin-top: 25px;
+}
+
+div.divFooter {
+    bottom: 0;
+}
