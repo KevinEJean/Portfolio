@@ -10,12 +10,7 @@
 ## 🎓 Cheminement Scolaire 
 
 ### Cégep Marie-Victorin (diplôme d'études collégiales)
-- **Technique en Informatique** | *obtention en mai 2027*  
-
----
-
-## 📚 Bénévolat  
-- Arbitre de la ligue d'hockey à Laval-Est
+- **Technique en Informatique** | *obtention en mai 2027*
 
 ---
 
@@ -47,3 +42,10 @@
 - **Communication** : recevoir, comprendre ou transmettre des consignes claires.
 - **Discipline** : capacité à adapter à n’importe quelle horaire ou situation. 
 - **Leadership** : prendre l’initiative et réaliser des tâches sans être demandé.
+
+---
+
+## 📚 Bénévolat  
+- Arbitre de la ligue d'hockey à Laval-Est
+
+---
