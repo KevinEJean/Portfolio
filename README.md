@@ -1,5 +1,3 @@
-# Mon Curriculum Vitae
-
 ## 📝 Mes Informations  
 - **Courriel** : kevin.emmanuel.jean@gmail.com
 - **Téléphone** : (514)-641-8553
