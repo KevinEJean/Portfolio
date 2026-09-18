@@ -1,9 +1,9 @@
 # Mon Curriculum Vitae
 
 ## 📝 Mes Informations  
-- **Courriel** : kevinjean438@gmail.com  
-- **Téléphone** : (514) 641-8553  
-- **Adresse** : Laval, QC, H7A 1N7  
+- **Courriel** : kevin.emmanuel.jean@gmail.com
+- **Téléphone** : (514)-641-8553
+- **Adresse** : Laval, QC  
 - [**Profil GitHub**](https://github.com/KevinEJean)
 - [**Profil Linkdin**](https://www.linkedin.com/in/kevin-emmanuel-jean/)
 
@@ -11,15 +11,13 @@
 
 ## 🎓 Cheminement Scolaire 
 
-### Cégep Marie-Victorin (DEC)
-- **Technique en Informatique** | *2023 - 2027*  
+### Cégep Marie-Victorin (diplôme d'études collégiales)
+- **Technique en Informatique** | *obtention en mai 2027*  
 
 ---
 
-## 📚 Implications Scolaire
-- Note soutenue en science  
-- Membre de l’équipe de basketball  
-- Membre de l’équipe de flag-football    
+## 📚 Bénévolat  
+- Arbitre de la ligue d'hockey à Laval-Est
 
 ---
 
@@ -34,11 +32,11 @@
 ---
 
 ## 🎖 Logiciels et Compétences Techniques  
-- **Bureautique** : Excel, Word, Teams, PDF, PowerPoint, OneDrive
-- **Programmation** : Python, Java, JavaScript, C#, Bash
-- **Web** : HTML & CSS, React Native
-- **Base de Données** : MySQL, Administration, Analyse de données
-- **Cybersécurité** : Déploiement et configuration de service/réseau sur AWS, VPN, VMWare, WireShark
+- **Réseautique** : DHCP, Routeur, TCP/IP, Topologies
+- **Programmation** : C#, Python, Java, JavaScript, Bash, Powershell
+- **Web** : HTML & CSS, React, TypeScript, Spring Boot, Maven
+- **Base de Données** : NoSQL(MongoDB), Administration, Analyse de données
+- **Cybersécurité** : AWS, VMWare, WireShark, Kali Linux
 
 ---
 
