@@ -29,7 +29,7 @@
 - **Programmation** : C#, Python, Java, JavaScript, Bash, Powershell
 - **Web** : HTML & CSS, React, TypeScript, Spring Boot, Maven
 - **Base de Données** : NoSQL(MongoDB), Administration, Analyse de données
-- **Cybersécurité** : AWS, VMWare, WireShark, Kali Linux
+- **Cybersécurité** : AWS, Kubernetes, VMWare, WireShark, Kali Linux
 
 ---
 
