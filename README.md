@@ -23,19 +23,21 @@
 
 ## 🎯 Logiciels et Compétences Techniques  
 
-- **Web** : HTML & CSS, React, TypeScript, Spring Boot, Maven
-- **Programmation** : C#, Python, Java, JavaScript, Bash, Powershell
-- **Cybersécurité** : AWS, Kubernetes, VMWare, WireShark, Kali Linux
-- **Réseautique** : DHCP, Routeur, TCP/IP, Topologies
-- **Base de Données** : NoSQL(MongoDB), Administration, Analyse de données
+- **Web** : HTML & CSS, React, TypeScript, JavaScript, API RESTful
+- **Logiciel** : C#, Python, Java
+- **Cybersécurité** : AWS, Kubernetes, VMWare(Kali Linux)
+- **Réseautique** : DHCP, Routeur, TCP/IP, Topologie
+- **Base de Données** : NoSQL(MongoDB), Analyse de données
 
 ---
 
 ## ⚙️ Projet catalogue de film/série | **[Répertoire Github](https://github.com/KevinEJean/ProjetWebH25)**
 
-<p align="justify">Une application web d'information permettant aux utilisateurs de rechercher et d'obtenir toutes les informations nécessaires sur des films, sans le contenu en streaming. C'est une application complet d'informations cinématographiques, offrant des détails sur les films, tels que les acteurs, réalisateurs, genres, dates de sortie, résumés et bien plus encore.</p>
+<p align="justify">Une application web d'information permettant aux utilisateurs de rechercher et d'obtenir toutes les informations nécessaires sur des films, sans le contenu en streaming. C'est une application remplie d'informations cinématographiques, offrant des détails sur les films, tels que les acteurs, réalisateurs, genres, dates de sortie, résumés et bien plus encore.</p>
 
--  Language/Service de programmation : **HTML-CSS, Javascript, Node.js, Java, SpringBoot, Maven, Selenium, JUnit**
+-  Language/Service de programmation : **HTML-CSS, JavaScript, Java, Node.js, SpringBoot, Maven**
+-  Test Unitaire : **Selenium, JUnit**
+-  Flux de travail : **Git, Atlassian Trello**
 -  Base de données : **MariaDB (MySQL)**
 -  Pour plus de détails techniques : **[Frontend](https://github.com/KevinEJean/ProjetWebH25/tree/devFrontend)** & **[Backend](https://github.com/KevinEJean/ProjetWebH25/tree/devBackend)**
 
@@ -43,8 +45,8 @@
 
 ## 📚 Langue parlée et écrtite
 
-- Français (Langue native)
-- Anglais (Langue native)
+- Français (Langue maternelle)
+- Anglais (Bilingue)
 
 ---
 
