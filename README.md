@@ -1,6 +1,6 @@
 # Kevin Emmmanuel JEAN
 
-<p align="justify">À la recherche d’un stage de 270 heures (8 à 9 semaines) pour la session d’hiver 2027. Ouvert à travailler en personne, hybride ou télétravail. Prêt à travailler à Laval, Montréal, Terrebonne, Longueuil. Mes disponibilités et mes heures varieront selon le plan de la session</p>
+<p align="justify">À la recherche d’un stage de 270 heures (8 à 9 semaines) pour la session d’hiver 2027. Ouvert à travailler en personne, hybride ou télétravail. Prêt à travailler à Laval, Montréal, Terrebonne, Longueuil. Mes disponibilités et mes heures varieront selon le plan de la session d'hiver 2027.</p>
 
 ---
 
