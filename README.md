@@ -26,7 +26,7 @@
 - **Web** : HTML & CSS, React, TypeScript, JavaScript
 - **Logiciel** : C#, Python, Java
 - **Cybersécurité** : AWS, Kubernetes, VMWare(Kali Linux)
-- **Réseautique** : DHCP, Routeur, TCP/IP, Topologie
+- **Réseau** : DHCP, Routeur, TCP/IP, Topologie
 - **Base de Données** : NoSQL, SQL, API RESTful, traitement de données
 
 ---
