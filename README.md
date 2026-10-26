@@ -69,12 +69,12 @@
 ## 🎯 Mes compétences
 
 - **Framework & Librairie**: `.NET`, `PyFlask`, `SpringBoot`, `Maven`, `React`, `Expo Go`;
-- **Sécurité web**: `auth JWT`, `RBAC`, `rate limiting`, `certification SSL/TLS`;
+- **Sécurité web**: `auth JWT`, `RBAC`, `Rate limiting`, `Certification SSL/TLS`;
 - **Logiciel**: `C#`, `Python`, `Java`, `TypeScript`, `JavaScript`;
 - **Infonuaguique**: `AWS`, `Kubernetes`, `VMWare(Kali Linux)`;
-- **Réseau**: `DHCP`, `routeur`, `TCP/IP`, `topologie`, `WAN/LAN`;
+- **Réseau**: `DHCP`, `Routeur`, `TCP/IP`, `Topologie`, `WAN/LAN`;
 - **Base de données**: `NoSQL (MongoDB)`, `MySQL (MariaDB)`;
-- **Support**: `Microsoft Azure`, `Microsoft Entra ID`, `Service à la clientèle`;
+- **Support**: `Microsoft Azure & Entra ID`, `Dépannage à distance`, `Gestion de parc informatique`;
 
 --- 
 
