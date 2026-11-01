@@ -50,7 +50,7 @@
 <!--
 ---
 
-### Architecture de système bout en bout | **[Répertoire GitHub](https://github.com/KevinEJean/NanoBoost)**
+### Architecture de système bout en bout | **[Répertoire GitHub](https://github.com/KevinEJean/Fast_Receipt)**
 
 <p align="justify">
   Une application mobile intelligente qui simplifie la gestion et la visualisation des dépenses. L'utilisateur prend simplement une photo de son reçu papier, et un modèle d'apprentissage automatique (ML) analyse et extrait instantanément les données clés (marchand, date, articles, taxes, total), accompagné d'un tableau de bord frontend qui génère en temps réel des graphiques interactifs, des suivis de budget et des rapports financiers détaillés.
