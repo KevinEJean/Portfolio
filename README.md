@@ -74,7 +74,7 @@
 - **Infonuaguique**: `AWS`, `Kubernetes`, `VMWare(Kali Linux)`;
 - **Réseau**: `DHCP`, `Routeur`, `TCP/IP`, `Topologie`, `WAN/LAN`;
 - **Base de données**: `NoSQL (MongoDB)`, `MySQL (MariaDB)`;
-- **Support**: `Microsoft Azure & Entra ID`, `Dépannage à distance`, `Gestion de parc informatique`;
+- **Support**: `Microsoft Entra ID`, `Dépannage à distance`, `Gestion de parc informatique`;
 
 --- 
 
