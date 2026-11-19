@@ -72,7 +72,7 @@
 - **Sécurité web**: `auth JWT`, `RBAC`, `Rate limiting`, `Certification SSL/TLS`;
 - **Logiciel**: `C#`, `Python`, `Java`, `TypeScript`, `JavaScript`;
 - **Infonuaguique**: `AWS`, `Kubernetes`, `VMWare(Kali Linux)`;
-- **Réseau**: `DHCP`, `Routeur`, `TCP/IP`, `Topologie`, `WAN/LAN`;
+- **Réseau**: `DHCP`, `Routeur`, `TCP/IP`, `Topologie`, `WAN/LAN`, `DNS`;
 - **Base de données**: `NoSQL (MongoDB)`, `MySQL (MariaDB)`;
 - **Support**: `Microsoft Entra ID`, `Dépannage à distance`, `Gestion de parc informatique`;
 
